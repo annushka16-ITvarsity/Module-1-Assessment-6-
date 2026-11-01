@@ -1,0 +1,52 @@
+.gallery img{
+    width: 100%;
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th, td {
+    padding: 8px;
+}
+
+h2{
+    font-family: Impact, fantasy;
+    text-align: center;
+    font-size: 30px;
+    color: rebeccapurple;
+    font-style:italic;
+}
+
+h4{
+    font-family: Impact, fantasy;
+    font-size: 20px;
+    font-style: italic;
+    color:rebeccapurple;
+    
+    padding-top: 12px;
+}
+
+p{
+    font-family: Helvetica, sans-serif;
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color:beige;
+}
+
+#menu a{
+    color: #470c82;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#menu a:hover{
+    color: blueviolet;
+}
